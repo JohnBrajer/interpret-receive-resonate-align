@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Interpret — Receive — Resonate — Align by John Brajer"
 abstract: "Interpret — Receive — Resonate — Align by John Brajer: process guidance while preserving interpretation and agency."
 type: software
+doi: "10.5281/zenodo.23718105"
 authors:
   - family-names: Brajer
     given-names: John

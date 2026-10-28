@@ -1,5 +1,8 @@
 # Interpret, Receive, Resonate, Align
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23718105.svg)](https://doi.org/10.5281/zenodo.23718105) [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0113--1341-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0113-1341)
+
+
 **John Brajer — operating orientation**
 
 A four-stage sequence for processing guidance, signals, advice, and external interpretation without outsourcing judgment.
@@ -53,3 +56,7 @@ Public standalone repository first published September 25, 2026.
 - Perspective Expansion: https://github.com/JohnBrajer/perspective-expansion
 - Possibility Reserve: https://github.com/JohnBrajer/possibility-reserve
 - Execution Contract: https://github.com/JohnBrajer/execution-contract
+
+## Cite
+
+Brajer, J. (Interpret Receive Resonate Align). Zenodo. https://doi.org/10.5281/zenodo.23718105 · ORCID [0009-0004-0113-1341](https://orcid.org/0009-0004-0113-1341)
